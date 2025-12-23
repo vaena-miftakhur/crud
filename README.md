@@ -37,27 +37,6 @@ crud/
 
 ---
 
-## Cara Menjalankan Project
-1. Clone repository
-   git clone https://github.com/USERNAME/nodejs-crud-restapi.git
-
-2. Masuk ke folder project
-   cd nodejs-crud-restapi
-
-3. Install dependency
-   npm install
-
-4. Konfigurasi database di file config/db.js
-   Sesuaikan host, user, password, dan nama database.
-
-5. Jalankan server
-   npm start
-
-Server berjalan di:
-http://localhost:3000
-
----
-
 ## Endpoint API
 
 USERS  
